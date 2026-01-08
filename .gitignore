@@ -1,0 +1,11 @@
+# Large raw data files (too big for GitHub)
+data/raw/nyc_camera_violations.csv
+data/raw/chicago_redlight_violations.csv
+data/raw/chicago_speed_violations.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.claude/

@@ -1,0 +1,5 @@
+Dataset,Records,Games,Date Range,Notes
+Player Counts,504,5,2012-07 to 2025-11,"Avg players range: 1,145 - 522,066"
+Daily Violations,25777,-,2010-01-01 to 2025-12-22,"Cities: Chicago, NYC"
+Hourly Violations,193840,-,2010-01-01 to 2025-12-22,City: NYC
+Tagged Analysis,3750,12,-,"Treatments: gta, reference, comparison"

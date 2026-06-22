@@ -9,3 +9,6 @@ __pycache__/
 
 # IDE settings
 .claude/
+
+# OMX local runtime artifacts
+.omx/
